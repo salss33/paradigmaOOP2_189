@@ -27,3 +27,4 @@ int main() {
 	cout << lampuRumah.getSaklarNo(3) << endl;
 
 
+
