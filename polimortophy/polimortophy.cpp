@@ -22,3 +22,4 @@ public:
 		cout << "pesan dari lia" << endl;
 	}
 };
+
