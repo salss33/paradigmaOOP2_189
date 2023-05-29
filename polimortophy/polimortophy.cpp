@@ -21,6 +21,7 @@ public:
 	void pesan() {
 		cout << "pesan dari lia" << endl;
 	}
+
 };
 
 int main() {
@@ -37,6 +38,3 @@ int main() {
 
 	return 0;
 }
-
-
-
